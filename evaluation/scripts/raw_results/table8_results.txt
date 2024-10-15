@@ -1,0 +1,1951 @@
+Evaluating attribute: gender, Condition: non-rainy
+
+========== Evaluation Results ==========
+
+Current Testing Attribute: Gender
+
+========== DT Type: yolox ==========
+
+Run 0:
+Male - Total: 6093.0, Success: 5509.0, MR: 0.0958
+Female - Total: 4747.0, Success: 4322.0, MR: 0.0895
+Run 1:
+Male - Total: 6093.0, Success: 5509.0, MR: 0.0958
+Female - Total: 4747.0, Success: 4322.0, MR: 0.0895
+Run 2:
+Male - Total: 6093.0, Success: 5509.0, MR: 0.0958
+Female - Total: 4747.0, Success: 4322.0, MR: 0.0895
+Run 3:
+Male - Total: 6093.0, Success: 5509.0, MR: 0.0958
+Female - Total: 4747.0, Success: 4322.0, MR: 0.0895
+Run 4:
+Male - Total: 6093.0, Success: 5509.0, MR: 0.0958
+Female - Total: 4747.0, Success: 4322.0, MR: 0.0895
+Run 5:
+Male - Total: 6093.0, Success: 5509.0, MR: 0.0958
+Female - Total: 4747.0, Success: 4322.0, MR: 0.0895
+Run 6:
+Male - Total: 6093.0, Success: 5509.0, MR: 0.0958
+Female - Total: 4747.0, Success: 4322.0, MR: 0.0895
+Run 7:
+Male - Total: 6093.0, Success: 5509.0, MR: 0.0958
+Female - Total: 4747.0, Success: 4322.0, MR: 0.0895
+Run 8:
+Male - Total: 6093.0, Success: 5509.0, MR: 0.0958
+Female - Total: 4747.0, Success: 4322.0, MR: 0.0895
+Run 9:
+Male - Total: 6093.0, Success: 5509.0, MR: 0.0958
+Female - Total: 4747.0, Success: 4322.0, MR: 0.0895
+
+Average Results:
+Male - Avg Total: 6093.0, Avg Success: 5509.0, Avg MR: 0.0958
+Female - Avg Total: 4747.0, Avg Success: 4322.0, Avg MR: 0.0895
+Avg EOD: 0.0063
+
+Avg Two Proportions Z-test (P-value): 0.2614
+
+========== DT Type: retinanet ==========
+
+Run 0:
+Male - Total: 6093.0, Success: 5446.0, MR: 0.1062
+Female - Total: 4747.0, Success: 4208.0, MR: 0.1135
+Run 1:
+Male - Total: 6093.0, Success: 5446.0, MR: 0.1062
+Female - Total: 4747.0, Success: 4208.0, MR: 0.1135
+Run 2:
+Male - Total: 6093.0, Success: 5446.0, MR: 0.1062
+Female - Total: 4747.0, Success: 4208.0, MR: 0.1135
+Run 3:
+Male - Total: 6093.0, Success: 5446.0, MR: 0.1062
+Female - Total: 4747.0, Success: 4208.0, MR: 0.1135
+Run 4:
+Male - Total: 6093.0, Success: 5446.0, MR: 0.1062
+Female - Total: 4747.0, Success: 4208.0, MR: 0.1135
+Run 5:
+Male - Total: 6093.0, Success: 5446.0, MR: 0.1062
+Female - Total: 4747.0, Success: 4208.0, MR: 0.1135
+Run 6:
+Male - Total: 6093.0, Success: 5446.0, MR: 0.1062
+Female - Total: 4747.0, Success: 4208.0, MR: 0.1135
+Run 7:
+Male - Total: 6093.0, Success: 5446.0, MR: 0.1062
+Female - Total: 4747.0, Success: 4208.0, MR: 0.1135
+Run 8:
+Male - Total: 6093.0, Success: 5446.0, MR: 0.1062
+Female - Total: 4747.0, Success: 4208.0, MR: 0.1135
+Run 9:
+Male - Total: 6093.0, Success: 5446.0, MR: 0.1062
+Female - Total: 4747.0, Success: 4208.0, MR: 0.1135
+
+Average Results:
+Male - Avg Total: 6093.0, Avg Success: 5446.0, Avg MR: 0.1062
+Female - Avg Total: 4747.0, Avg Success: 4208.0, Avg MR: 0.1135
+Avg EOD: -0.0074
+
+Avg Two Proportions Z-test (P-value): 0.2234
+
+========== DT Type: faster_rcnn ==========
+
+Run 0:
+Male - Total: 6093.0, Success: 5869.0, MR: 0.0368
+Female - Total: 4747.0, Success: 4591.0, MR: 0.0329
+Run 1:
+Male - Total: 6093.0, Success: 5869.0, MR: 0.0368
+Female - Total: 4747.0, Success: 4591.0, MR: 0.0329
+Run 2:
+Male - Total: 6093.0, Success: 5869.0, MR: 0.0368
+Female - Total: 4747.0, Success: 4591.0, MR: 0.0329
+Run 3:
+Male - Total: 6093.0, Success: 5869.0, MR: 0.0368
+Female - Total: 4747.0, Success: 4591.0, MR: 0.0329
+Run 4:
+Male - Total: 6093.0, Success: 5869.0, MR: 0.0368
+Female - Total: 4747.0, Success: 4591.0, MR: 0.0329
+Run 5:
+Male - Total: 6093.0, Success: 5869.0, MR: 0.0368
+Female - Total: 4747.0, Success: 4591.0, MR: 0.0329
+Run 6:
+Male - Total: 6093.0, Success: 5869.0, MR: 0.0368
+Female - Total: 4747.0, Success: 4591.0, MR: 0.0329
+Run 7:
+Male - Total: 6093.0, Success: 5869.0, MR: 0.0368
+Female - Total: 4747.0, Success: 4591.0, MR: 0.0329
+Run 8:
+Male - Total: 6093.0, Success: 5869.0, MR: 0.0368
+Female - Total: 4747.0, Success: 4591.0, MR: 0.0329
+Run 9:
+Male - Total: 6093.0, Success: 5869.0, MR: 0.0368
+Female - Total: 4747.0, Success: 4591.0, MR: 0.0329
+
+Average Results:
+Male - Avg Total: 6093.0, Avg Success: 5869.0, Avg MR: 0.0368
+Female - Avg Total: 4747.0, Avg Success: 4591.0, Avg MR: 0.0329
+Avg EOD: 0.0039
+
+Avg Two Proportions Z-test (P-value): 0.2733
+
+========== DT Type: cascade_rcnn ==========
+
+Run 0:
+Male - Total: 6093.0, Success: 5869.0, MR: 0.0368
+Female - Total: 4747.0, Success: 4582.0, MR: 0.0348
+Run 1:
+Male - Total: 6093.0, Success: 5869.0, MR: 0.0368
+Female - Total: 4747.0, Success: 4582.0, MR: 0.0348
+Run 2:
+Male - Total: 6093.0, Success: 5869.0, MR: 0.0368
+Female - Total: 4747.0, Success: 4582.0, MR: 0.0348
+Run 3:
+Male - Total: 6093.0, Success: 5869.0, MR: 0.0368
+Female - Total: 4747.0, Success: 4582.0, MR: 0.0348
+Run 4:
+Male - Total: 6093.0, Success: 5869.0, MR: 0.0368
+Female - Total: 4747.0, Success: 4582.0, MR: 0.0348
+Run 5:
+Male - Total: 6093.0, Success: 5869.0, MR: 0.0368
+Female - Total: 4747.0, Success: 4582.0, MR: 0.0348
+Run 6:
+Male - Total: 6093.0, Success: 5869.0, MR: 0.0368
+Female - Total: 4747.0, Success: 4582.0, MR: 0.0348
+Run 7:
+Male - Total: 6093.0, Success: 5869.0, MR: 0.0368
+Female - Total: 4747.0, Success: 4582.0, MR: 0.0348
+Run 8:
+Male - Total: 6093.0, Success: 5869.0, MR: 0.0368
+Female - Total: 4747.0, Success: 4582.0, MR: 0.0348
+Run 9:
+Male - Total: 6093.0, Success: 5869.0, MR: 0.0368
+Female - Total: 4747.0, Success: 4582.0, MR: 0.0348
+
+Average Results:
+Male - Avg Total: 6093.0, Avg Success: 5869.0, Avg MR: 0.0368
+Female - Avg Total: 4747.0, Avg Success: 4582.0, Avg MR: 0.0348
+Avg EOD: 0.0020
+
+Avg Two Proportions Z-test (P-value): 0.5777
+
+========== DT Type: alfnet ==========
+
+Run 0:
+Male - Total: 6093.0, Success: 4660.0, MR: 0.2352
+Female - Total: 4747.0, Success: 3659.0, MR: 0.2292
+Run 1:
+Male - Total: 6093.0, Success: 4660.0, MR: 0.2352
+Female - Total: 4747.0, Success: 3659.0, MR: 0.2292
+Run 2:
+Male - Total: 6093.0, Success: 4660.0, MR: 0.2352
+Female - Total: 4747.0, Success: 3659.0, MR: 0.2292
+Run 3:
+Male - Total: 6093.0, Success: 4660.0, MR: 0.2352
+Female - Total: 4747.0, Success: 3659.0, MR: 0.2292
+Run 4:
+Male - Total: 6093.0, Success: 4660.0, MR: 0.2352
+Female - Total: 4747.0, Success: 3659.0, MR: 0.2292
+Run 5:
+Male - Total: 6093.0, Success: 4660.0, MR: 0.2352
+Female - Total: 4747.0, Success: 3659.0, MR: 0.2292
+Run 6:
+Male - Total: 6093.0, Success: 4660.0, MR: 0.2352
+Female - Total: 4747.0, Success: 3659.0, MR: 0.2292
+Run 7:
+Male - Total: 6093.0, Success: 4660.0, MR: 0.2352
+Female - Total: 4747.0, Success: 3659.0, MR: 0.2292
+Run 8:
+Male - Total: 6093.0, Success: 4660.0, MR: 0.2352
+Female - Total: 4747.0, Success: 3659.0, MR: 0.2292
+Run 9:
+Male - Total: 6093.0, Success: 4660.0, MR: 0.2352
+Female - Total: 4747.0, Success: 3659.0, MR: 0.2292
+
+Average Results:
+Male - Avg Total: 6093.0, Avg Success: 4660.0, Avg MR: 0.2352
+Female - Avg Total: 4747.0, Avg Success: 3659.0, Avg MR: 0.2292
+Avg EOD: 0.0060
+
+Avg Two Proportions Z-test (P-value): 0.4639
+
+========== DT Type: csp ==========
+
+Run 0:
+Male - Total: 6093.0, Success: 4552.0, MR: 0.2529
+Female - Total: 4747.0, Success: 3591.0, MR: 0.2435
+Run 1:
+Male - Total: 6093.0, Success: 4552.0, MR: 0.2529
+Female - Total: 4747.0, Success: 3591.0, MR: 0.2435
+Run 2:
+Male - Total: 6093.0, Success: 4552.0, MR: 0.2529
+Female - Total: 4747.0, Success: 3591.0, MR: 0.2435
+Run 3:
+Male - Total: 6093.0, Success: 4552.0, MR: 0.2529
+Female - Total: 4747.0, Success: 3591.0, MR: 0.2435
+Run 4:
+Male - Total: 6093.0, Success: 4552.0, MR: 0.2529
+Female - Total: 4747.0, Success: 3591.0, MR: 0.2435
+Run 5:
+Male - Total: 6093.0, Success: 4552.0, MR: 0.2529
+Female - Total: 4747.0, Success: 3591.0, MR: 0.2435
+Run 6:
+Male - Total: 6093.0, Success: 4552.0, MR: 0.2529
+Female - Total: 4747.0, Success: 3591.0, MR: 0.2435
+Run 7:
+Male - Total: 6093.0, Success: 4552.0, MR: 0.2529
+Female - Total: 4747.0, Success: 3591.0, MR: 0.2435
+Run 8:
+Male - Total: 6093.0, Success: 4552.0, MR: 0.2529
+Female - Total: 4747.0, Success: 3591.0, MR: 0.2435
+Run 9:
+Male - Total: 6093.0, Success: 4552.0, MR: 0.2529
+Female - Total: 4747.0, Success: 3591.0, MR: 0.2435
+
+Average Results:
+Male - Avg Total: 6093.0, Avg Success: 4552.0, Avg MR: 0.2529
+Female - Avg Total: 4747.0, Avg Success: 3591.0, Avg MR: 0.2435
+Avg EOD: 0.0094
+
+Avg Two Proportions Z-test (P-value): 0.2618
+
+========== DT Type: mgan ==========
+
+Run 0:
+Male - Total: 6093.0, Success: 4592.0, MR: 0.2463
+Female - Total: 4747.0, Success: 3548.0, MR: 0.2526
+Run 1:
+Male - Total: 6093.0, Success: 4592.0, MR: 0.2463
+Female - Total: 4747.0, Success: 3548.0, MR: 0.2526
+Run 2:
+Male - Total: 6093.0, Success: 4592.0, MR: 0.2463
+Female - Total: 4747.0, Success: 3548.0, MR: 0.2526
+Run 3:
+Male - Total: 6093.0, Success: 4592.0, MR: 0.2463
+Female - Total: 4747.0, Success: 3548.0, MR: 0.2526
+Run 4:
+Male - Total: 6093.0, Success: 4592.0, MR: 0.2463
+Female - Total: 4747.0, Success: 3548.0, MR: 0.2526
+Run 5:
+Male - Total: 6093.0, Success: 4592.0, MR: 0.2463
+Female - Total: 4747.0, Success: 3548.0, MR: 0.2526
+Run 6:
+Male - Total: 6093.0, Success: 4592.0, MR: 0.2463
+Female - Total: 4747.0, Success: 3548.0, MR: 0.2526
+Run 7:
+Male - Total: 6093.0, Success: 4592.0, MR: 0.2463
+Female - Total: 4747.0, Success: 3548.0, MR: 0.2526
+Run 8:
+Male - Total: 6093.0, Success: 4592.0, MR: 0.2463
+Female - Total: 4747.0, Success: 3548.0, MR: 0.2526
+Run 9:
+Male - Total: 6093.0, Success: 4592.0, MR: 0.2463
+Female - Total: 4747.0, Success: 3548.0, MR: 0.2526
+
+Average Results:
+Male - Avg Total: 6093.0, Avg Success: 4592.0, Avg MR: 0.2463
+Female - Avg Total: 4747.0, Avg Success: 3548.0, Avg MR: 0.2526
+Avg EOD: -0.0062
+
+Avg Two Proportions Z-test (P-value): 0.4566
+
+========== DT Type: prnet ==========
+
+Run 0:
+Male - Total: 6093.0, Success: 4099.0, MR: 0.3273
+Female - Total: 4747.0, Success: 3245.0, MR: 0.3164
+Run 1:
+Male - Total: 6093.0, Success: 4099.0, MR: 0.3273
+Female - Total: 4747.0, Success: 3245.0, MR: 0.3164
+Run 2:
+Male - Total: 6093.0, Success: 4099.0, MR: 0.3273
+Female - Total: 4747.0, Success: 3245.0, MR: 0.3164
+Run 3:
+Male - Total: 6093.0, Success: 4099.0, MR: 0.3273
+Female - Total: 4747.0, Success: 3245.0, MR: 0.3164
+Run 4:
+Male - Total: 6093.0, Success: 4099.0, MR: 0.3273
+Female - Total: 4747.0, Success: 3245.0, MR: 0.3164
+Run 5:
+Male - Total: 6093.0, Success: 4099.0, MR: 0.3273
+Female - Total: 4747.0, Success: 3245.0, MR: 0.3164
+Run 6:
+Male - Total: 6093.0, Success: 4099.0, MR: 0.3273
+Female - Total: 4747.0, Success: 3245.0, MR: 0.3164
+Run 7:
+Male - Total: 6093.0, Success: 4099.0, MR: 0.3273
+Female - Total: 4747.0, Success: 3245.0, MR: 0.3164
+Run 8:
+Male - Total: 6093.0, Success: 4099.0, MR: 0.3273
+Female - Total: 4747.0, Success: 3245.0, MR: 0.3164
+Run 9:
+Male - Total: 6093.0, Success: 4099.0, MR: 0.3273
+Female - Total: 4747.0, Success: 3245.0, MR: 0.3164
+
+Average Results:
+Male - Avg Total: 6093.0, Avg Success: 4099.0, Avg MR: 0.3273
+Female - Avg Total: 4747.0, Avg Success: 3245.0, Avg MR: 0.3164
+Avg EOD: 0.0109
+
+Avg Two Proportions Z-test (P-value): 0.2305
+Evaluating attribute: gender, Condition: rainy
+
+========== Evaluation Results ==========
+
+Current Testing Attribute: Gender
+
+========== DT Type: yolox ==========
+
+Run 0:
+Male - Total: 228.0, Success: 209.0, MR: 0.0833
+Female - Total: 174.0, Success: 165.0, MR: 0.0517
+Run 1:
+Male - Total: 228.0, Success: 209.0, MR: 0.0833
+Female - Total: 174.0, Success: 165.0, MR: 0.0517
+Run 2:
+Male - Total: 228.0, Success: 209.0, MR: 0.0833
+Female - Total: 174.0, Success: 165.0, MR: 0.0517
+Run 3:
+Male - Total: 228.0, Success: 209.0, MR: 0.0833
+Female - Total: 174.0, Success: 165.0, MR: 0.0517
+Run 4:
+Male - Total: 228.0, Success: 209.0, MR: 0.0833
+Female - Total: 174.0, Success: 165.0, MR: 0.0517
+Run 5:
+Male - Total: 228.0, Success: 209.0, MR: 0.0833
+Female - Total: 174.0, Success: 165.0, MR: 0.0517
+Run 6:
+Male - Total: 228.0, Success: 209.0, MR: 0.0833
+Female - Total: 174.0, Success: 165.0, MR: 0.0517
+Run 7:
+Male - Total: 228.0, Success: 209.0, MR: 0.0833
+Female - Total: 174.0, Success: 165.0, MR: 0.0517
+Run 8:
+Male - Total: 228.0, Success: 209.0, MR: 0.0833
+Female - Total: 174.0, Success: 165.0, MR: 0.0517
+Run 9:
+Male - Total: 228.0, Success: 209.0, MR: 0.0833
+Female - Total: 174.0, Success: 165.0, MR: 0.0517
+
+Average Results:
+Male - Avg Total: 228.0, Avg Success: 209.0, Avg MR: 0.0833
+Female - Avg Total: 174.0, Avg Success: 165.0, Avg MR: 0.0517
+Avg EOD: 0.0316
+
+Avg Two Proportions Z-test (P-value): 0.2174
+
+========== DT Type: retinanet ==========
+
+Run 0:
+Male - Total: 228.0, Success: 205.0, MR: 0.1009
+Female - Total: 174.0, Success: 160.0, MR: 0.0805
+Run 1:
+Male - Total: 228.0, Success: 205.0, MR: 0.1009
+Female - Total: 174.0, Success: 160.0, MR: 0.0805
+Run 2:
+Male - Total: 228.0, Success: 205.0, MR: 0.1009
+Female - Total: 174.0, Success: 160.0, MR: 0.0805
+Run 3:
+Male - Total: 228.0, Success: 205.0, MR: 0.1009
+Female - Total: 174.0, Success: 160.0, MR: 0.0805
+Run 4:
+Male - Total: 228.0, Success: 205.0, MR: 0.1009
+Female - Total: 174.0, Success: 160.0, MR: 0.0805
+Run 5:
+Male - Total: 228.0, Success: 205.0, MR: 0.1009
+Female - Total: 174.0, Success: 160.0, MR: 0.0805
+Run 6:
+Male - Total: 228.0, Success: 205.0, MR: 0.1009
+Female - Total: 174.0, Success: 160.0, MR: 0.0805
+Run 7:
+Male - Total: 228.0, Success: 205.0, MR: 0.1009
+Female - Total: 174.0, Success: 160.0, MR: 0.0805
+Run 8:
+Male - Total: 228.0, Success: 205.0, MR: 0.1009
+Female - Total: 174.0, Success: 160.0, MR: 0.0805
+Run 9:
+Male - Total: 228.0, Success: 205.0, MR: 0.1009
+Female - Total: 174.0, Success: 160.0, MR: 0.0805
+
+Average Results:
+Male - Avg Total: 228.0, Avg Success: 205.0, Avg MR: 0.1009
+Female - Avg Total: 174.0, Avg Success: 160.0, Avg MR: 0.0805
+Avg EOD: 0.0204
+
+Avg Two Proportions Z-test (P-value): 0.4829
+
+========== DT Type: faster_rcnn ==========
+
+Run 0:
+Male - Total: 228.0, Success: 218.0, MR: 0.0439
+Female - Total: 174.0, Success: 169.0, MR: 0.0287
+Run 1:
+Male - Total: 228.0, Success: 218.0, MR: 0.0439
+Female - Total: 174.0, Success: 169.0, MR: 0.0287
+Run 2:
+Male - Total: 228.0, Success: 218.0, MR: 0.0439
+Female - Total: 174.0, Success: 169.0, MR: 0.0287
+Run 3:
+Male - Total: 228.0, Success: 218.0, MR: 0.0439
+Female - Total: 174.0, Success: 169.0, MR: 0.0287
+Run 4:
+Male - Total: 228.0, Success: 218.0, MR: 0.0439
+Female - Total: 174.0, Success: 169.0, MR: 0.0287
+Run 5:
+Male - Total: 228.0, Success: 218.0, MR: 0.0439
+Female - Total: 174.0, Success: 169.0, MR: 0.0287
+Run 6:
+Male - Total: 228.0, Success: 218.0, MR: 0.0439
+Female - Total: 174.0, Success: 169.0, MR: 0.0287
+Run 7:
+Male - Total: 228.0, Success: 218.0, MR: 0.0439
+Female - Total: 174.0, Success: 169.0, MR: 0.0287
+Run 8:
+Male - Total: 228.0, Success: 218.0, MR: 0.0439
+Female - Total: 174.0, Success: 169.0, MR: 0.0287
+Run 9:
+Male - Total: 228.0, Success: 218.0, MR: 0.0439
+Female - Total: 174.0, Success: 169.0, MR: 0.0287
+
+Average Results:
+Male - Avg Total: 228.0, Avg Success: 218.0, Avg MR: 0.0439
+Female - Avg Total: 174.0, Avg Success: 169.0, Avg MR: 0.0287
+Avg EOD: 0.0151
+
+Avg Two Proportions Z-test (P-value): 0.4279
+
+========== DT Type: cascade_rcnn ==========
+
+Run 0:
+Male - Total: 228.0, Success: 218.0, MR: 0.0439
+Female - Total: 174.0, Success: 169.0, MR: 0.0287
+Run 1:
+Male - Total: 228.0, Success: 218.0, MR: 0.0439
+Female - Total: 174.0, Success: 169.0, MR: 0.0287
+Run 2:
+Male - Total: 228.0, Success: 218.0, MR: 0.0439
+Female - Total: 174.0, Success: 169.0, MR: 0.0287
+Run 3:
+Male - Total: 228.0, Success: 218.0, MR: 0.0439
+Female - Total: 174.0, Success: 169.0, MR: 0.0287
+Run 4:
+Male - Total: 228.0, Success: 218.0, MR: 0.0439
+Female - Total: 174.0, Success: 169.0, MR: 0.0287
+Run 5:
+Male - Total: 228.0, Success: 218.0, MR: 0.0439
+Female - Total: 174.0, Success: 169.0, MR: 0.0287
+Run 6:
+Male - Total: 228.0, Success: 218.0, MR: 0.0439
+Female - Total: 174.0, Success: 169.0, MR: 0.0287
+Run 7:
+Male - Total: 228.0, Success: 218.0, MR: 0.0439
+Female - Total: 174.0, Success: 169.0, MR: 0.0287
+Run 8:
+Male - Total: 228.0, Success: 218.0, MR: 0.0439
+Female - Total: 174.0, Success: 169.0, MR: 0.0287
+Run 9:
+Male - Total: 228.0, Success: 218.0, MR: 0.0439
+Female - Total: 174.0, Success: 169.0, MR: 0.0287
+
+Average Results:
+Male - Avg Total: 228.0, Avg Success: 218.0, Avg MR: 0.0439
+Female - Avg Total: 174.0, Avg Success: 169.0, Avg MR: 0.0287
+Avg EOD: 0.0151
+
+Avg Two Proportions Z-test (P-value): 0.4279
+
+========== DT Type: alfnet ==========
+
+Run 0:
+Male - Total: 228.0, Success: 131.0, MR: 0.4254
+Female - Total: 174.0, Success: 103.0, MR: 0.4080
+Run 1:
+Male - Total: 228.0, Success: 131.0, MR: 0.4254
+Female - Total: 174.0, Success: 103.0, MR: 0.4080
+Run 2:
+Male - Total: 228.0, Success: 131.0, MR: 0.4254
+Female - Total: 174.0, Success: 103.0, MR: 0.4080
+Run 3:
+Male - Total: 228.0, Success: 131.0, MR: 0.4254
+Female - Total: 174.0, Success: 103.0, MR: 0.4080
+Run 4:
+Male - Total: 228.0, Success: 131.0, MR: 0.4254
+Female - Total: 174.0, Success: 103.0, MR: 0.4080
+Run 5:
+Male - Total: 228.0, Success: 131.0, MR: 0.4254
+Female - Total: 174.0, Success: 103.0, MR: 0.4080
+Run 6:
+Male - Total: 228.0, Success: 131.0, MR: 0.4254
+Female - Total: 174.0, Success: 103.0, MR: 0.4080
+Run 7:
+Male - Total: 228.0, Success: 131.0, MR: 0.4254
+Female - Total: 174.0, Success: 103.0, MR: 0.4080
+Run 8:
+Male - Total: 228.0, Success: 131.0, MR: 0.4254
+Female - Total: 174.0, Success: 103.0, MR: 0.4080
+Run 9:
+Male - Total: 228.0, Success: 131.0, MR: 0.4254
+Female - Total: 174.0, Success: 103.0, MR: 0.4080
+
+Average Results:
+Male - Avg Total: 228.0, Avg Success: 131.0, Avg MR: 0.4254
+Female - Avg Total: 174.0, Avg Success: 103.0, Avg MR: 0.4080
+Avg EOD: 0.0174
+
+Avg Two Proportions Z-test (P-value): 0.7261
+
+========== DT Type: csp ==========
+
+Run 0:
+Male - Total: 228.0, Success: 113.0, MR: 0.5044
+Female - Total: 174.0, Success: 97.0, MR: 0.4425
+Run 1:
+Male - Total: 228.0, Success: 113.0, MR: 0.5044
+Female - Total: 174.0, Success: 97.0, MR: 0.4425
+Run 2:
+Male - Total: 228.0, Success: 113.0, MR: 0.5044
+Female - Total: 174.0, Success: 97.0, MR: 0.4425
+Run 3:
+Male - Total: 228.0, Success: 113.0, MR: 0.5044
+Female - Total: 174.0, Success: 97.0, MR: 0.4425
+Run 4:
+Male - Total: 228.0, Success: 113.0, MR: 0.5044
+Female - Total: 174.0, Success: 97.0, MR: 0.4425
+Run 5:
+Male - Total: 228.0, Success: 113.0, MR: 0.5044
+Female - Total: 174.0, Success: 97.0, MR: 0.4425
+Run 6:
+Male - Total: 228.0, Success: 113.0, MR: 0.5044
+Female - Total: 174.0, Success: 97.0, MR: 0.4425
+Run 7:
+Male - Total: 228.0, Success: 113.0, MR: 0.5044
+Female - Total: 174.0, Success: 97.0, MR: 0.4425
+Run 8:
+Male - Total: 228.0, Success: 113.0, MR: 0.5044
+Female - Total: 174.0, Success: 97.0, MR: 0.4425
+Run 9:
+Male - Total: 228.0, Success: 113.0, MR: 0.5044
+Female - Total: 174.0, Success: 97.0, MR: 0.4425
+
+Average Results:
+Male - Avg Total: 228.0, Avg Success: 113.0, Avg MR: 0.5044
+Female - Avg Total: 174.0, Avg Success: 97.0, Avg MR: 0.4425
+Avg EOD: 0.0619
+
+Avg Two Proportions Z-test (P-value): 0.2186
+
+========== DT Type: mgan ==========
+
+Run 0:
+Male - Total: 228.0, Success: 112.0, MR: 0.5088
+Female - Total: 174.0, Success: 86.0, MR: 0.5057
+Run 1:
+Male - Total: 228.0, Success: 112.0, MR: 0.5088
+Female - Total: 174.0, Success: 86.0, MR: 0.5057
+Run 2:
+Male - Total: 228.0, Success: 112.0, MR: 0.5088
+Female - Total: 174.0, Success: 86.0, MR: 0.5057
+Run 3:
+Male - Total: 228.0, Success: 112.0, MR: 0.5088
+Female - Total: 174.0, Success: 86.0, MR: 0.5057
+Run 4:
+Male - Total: 228.0, Success: 112.0, MR: 0.5088
+Female - Total: 174.0, Success: 86.0, MR: 0.5057
+Run 5:
+Male - Total: 228.0, Success: 112.0, MR: 0.5088
+Female - Total: 174.0, Success: 86.0, MR: 0.5057
+Run 6:
+Male - Total: 228.0, Success: 112.0, MR: 0.5088
+Female - Total: 174.0, Success: 86.0, MR: 0.5057
+Run 7:
+Male - Total: 228.0, Success: 112.0, MR: 0.5088
+Female - Total: 174.0, Success: 86.0, MR: 0.5057
+Run 8:
+Male - Total: 228.0, Success: 112.0, MR: 0.5088
+Female - Total: 174.0, Success: 86.0, MR: 0.5057
+Run 9:
+Male - Total: 228.0, Success: 112.0, MR: 0.5088
+Female - Total: 174.0, Success: 86.0, MR: 0.5057
+
+Average Results:
+Male - Avg Total: 228.0, Avg Success: 112.0, Avg MR: 0.5088
+Female - Avg Total: 174.0, Avg Success: 86.0, Avg MR: 0.5057
+Avg EOD: 0.0030
+
+Avg Two Proportions Z-test (P-value): 0.9521
+
+========== DT Type: prnet ==========
+
+Run 0:
+Male - Total: 228.0, Success: 110.0, MR: 0.5175
+Female - Total: 174.0, Success: 86.0, MR: 0.5057
+Run 1:
+Male - Total: 228.0, Success: 110.0, MR: 0.5175
+Female - Total: 174.0, Success: 86.0, MR: 0.5057
+Run 2:
+Male - Total: 228.0, Success: 110.0, MR: 0.5175
+Female - Total: 174.0, Success: 86.0, MR: 0.5057
+Run 3:
+Male - Total: 228.0, Success: 110.0, MR: 0.5175
+Female - Total: 174.0, Success: 86.0, MR: 0.5057
+Run 4:
+Male - Total: 228.0, Success: 110.0, MR: 0.5175
+Female - Total: 174.0, Success: 86.0, MR: 0.5057
+Run 5:
+Male - Total: 228.0, Success: 110.0, MR: 0.5175
+Female - Total: 174.0, Success: 86.0, MR: 0.5057
+Run 6:
+Male - Total: 228.0, Success: 110.0, MR: 0.5175
+Female - Total: 174.0, Success: 86.0, MR: 0.5057
+Run 7:
+Male - Total: 228.0, Success: 110.0, MR: 0.5175
+Female - Total: 174.0, Success: 86.0, MR: 0.5057
+Run 8:
+Male - Total: 228.0, Success: 110.0, MR: 0.5175
+Female - Total: 174.0, Success: 86.0, MR: 0.5057
+Run 9:
+Male - Total: 228.0, Success: 110.0, MR: 0.5175
+Female - Total: 174.0, Success: 86.0, MR: 0.5057
+
+Average Results:
+Male - Avg Total: 228.0, Avg Success: 110.0, Avg MR: 0.5175
+Female - Avg Total: 174.0, Avg Success: 86.0, Avg MR: 0.5057
+Avg EOD: 0.0118
+
+Avg Two Proportions Z-test (P-value): 0.8146
+Evaluating attribute: age, Condition: non-rainy
+
+========== Evaluation Results ==========
+
+Current Testing Attribute: Age
+
+========== DT Type: yolox ==========
+
+Run 0:
+Adults - Total: 11996.0, Success: 10742.0, MR: 0.1045
+Children - Total: 433.0, Success: 260.0, MR: 0.3995
+Run 1:
+Adults - Total: 11996.0, Success: 10742.0, MR: 0.1045
+Children - Total: 433.0, Success: 260.0, MR: 0.3995
+Run 2:
+Adults - Total: 11996.0, Success: 10742.0, MR: 0.1045
+Children - Total: 433.0, Success: 260.0, MR: 0.3995
+Run 3:
+Adults - Total: 11996.0, Success: 10742.0, MR: 0.1045
+Children - Total: 433.0, Success: 260.0, MR: 0.3995
+Run 4:
+Adults - Total: 11996.0, Success: 10742.0, MR: 0.1045
+Children - Total: 433.0, Success: 260.0, MR: 0.3995
+Run 5:
+Adults - Total: 11996.0, Success: 10742.0, MR: 0.1045
+Children - Total: 433.0, Success: 260.0, MR: 0.3995
+Run 6:
+Adults - Total: 11996.0, Success: 10742.0, MR: 0.1045
+Children - Total: 433.0, Success: 260.0, MR: 0.3995
+Run 7:
+Adults - Total: 11996.0, Success: 10742.0, MR: 0.1045
+Children - Total: 433.0, Success: 260.0, MR: 0.3995
+Run 8:
+Adults - Total: 11996.0, Success: 10742.0, MR: 0.1045
+Children - Total: 433.0, Success: 260.0, MR: 0.3995
+Run 9:
+Adults - Total: 11996.0, Success: 10742.0, MR: 0.1045
+Children - Total: 433.0, Success: 260.0, MR: 0.3995
+
+Average Results:
+Adults - Avg Total: 11996.0, Avg Success: 10742.0, Avg MR: 0.1045
+Children - Avg Total: 433.0, Avg Success: 260.0, Avg MR: 0.3995
+Avg EOD: -0.2950
+
+Avg Two Proportions Z-test (P-value): 0.0000
+
+========== DT Type: retinanet ==========
+
+Run 0:
+Adults - Total: 11996.0, Success: 10498.0, MR: 0.1249
+Children - Total: 433.0, Success: 257.0, MR: 0.4065
+Run 1:
+Adults - Total: 11996.0, Success: 10498.0, MR: 0.1249
+Children - Total: 433.0, Success: 257.0, MR: 0.4065
+Run 2:
+Adults - Total: 11996.0, Success: 10498.0, MR: 0.1249
+Children - Total: 433.0, Success: 257.0, MR: 0.4065
+Run 3:
+Adults - Total: 11996.0, Success: 10498.0, MR: 0.1249
+Children - Total: 433.0, Success: 257.0, MR: 0.4065
+Run 4:
+Adults - Total: 11996.0, Success: 10498.0, MR: 0.1249
+Children - Total: 433.0, Success: 257.0, MR: 0.4065
+Run 5:
+Adults - Total: 11996.0, Success: 10498.0, MR: 0.1249
+Children - Total: 433.0, Success: 257.0, MR: 0.4065
+Run 6:
+Adults - Total: 11996.0, Success: 10498.0, MR: 0.1249
+Children - Total: 433.0, Success: 257.0, MR: 0.4065
+Run 7:
+Adults - Total: 11996.0, Success: 10498.0, MR: 0.1249
+Children - Total: 433.0, Success: 257.0, MR: 0.4065
+Run 8:
+Adults - Total: 11996.0, Success: 10498.0, MR: 0.1249
+Children - Total: 433.0, Success: 257.0, MR: 0.4065
+Run 9:
+Adults - Total: 11996.0, Success: 10498.0, MR: 0.1249
+Children - Total: 433.0, Success: 257.0, MR: 0.4065
+
+Average Results:
+Adults - Avg Total: 11996.0, Avg Success: 10498.0, Avg MR: 0.1249
+Children - Avg Total: 433.0, Avg Success: 257.0, Avg MR: 0.4065
+Avg EOD: -0.2816
+
+Avg Two Proportions Z-test (P-value): 0.0000
+
+========== DT Type: faster_rcnn ==========
+
+Run 0:
+Adults - Total: 11996.0, Success: 11473.0, MR: 0.0436
+Children - Total: 433.0, Success: 333.0, MR: 0.2309
+Run 1:
+Adults - Total: 11996.0, Success: 11473.0, MR: 0.0436
+Children - Total: 433.0, Success: 333.0, MR: 0.2309
+Run 2:
+Adults - Total: 11996.0, Success: 11473.0, MR: 0.0436
+Children - Total: 433.0, Success: 333.0, MR: 0.2309
+Run 3:
+Adults - Total: 11996.0, Success: 11473.0, MR: 0.0436
+Children - Total: 433.0, Success: 333.0, MR: 0.2309
+Run 4:
+Adults - Total: 11996.0, Success: 11473.0, MR: 0.0436
+Children - Total: 433.0, Success: 333.0, MR: 0.2309
+Run 5:
+Adults - Total: 11996.0, Success: 11473.0, MR: 0.0436
+Children - Total: 433.0, Success: 333.0, MR: 0.2309
+Run 6:
+Adults - Total: 11996.0, Success: 11473.0, MR: 0.0436
+Children - Total: 433.0, Success: 333.0, MR: 0.2309
+Run 7:
+Adults - Total: 11996.0, Success: 11473.0, MR: 0.0436
+Children - Total: 433.0, Success: 333.0, MR: 0.2309
+Run 8:
+Adults - Total: 11996.0, Success: 11473.0, MR: 0.0436
+Children - Total: 433.0, Success: 333.0, MR: 0.2309
+Run 9:
+Adults - Total: 11996.0, Success: 11473.0, MR: 0.0436
+Children - Total: 433.0, Success: 333.0, MR: 0.2309
+
+Average Results:
+Adults - Avg Total: 11996.0, Avg Success: 11473.0, Avg MR: 0.0436
+Children - Avg Total: 433.0, Avg Success: 333.0, Avg MR: 0.2309
+Avg EOD: -0.1873
+
+Avg Two Proportions Z-test (P-value): 0.0000
+
+========== DT Type: cascade_rcnn ==========
+
+Run 0:
+Adults - Total: 11996.0, Success: 11452.0, MR: 0.0453
+Children - Total: 433.0, Success: 330.0, MR: 0.2379
+Run 1:
+Adults - Total: 11996.0, Success: 11452.0, MR: 0.0453
+Children - Total: 433.0, Success: 330.0, MR: 0.2379
+Run 2:
+Adults - Total: 11996.0, Success: 11452.0, MR: 0.0453
+Children - Total: 433.0, Success: 330.0, MR: 0.2379
+Run 3:
+Adults - Total: 11996.0, Success: 11452.0, MR: 0.0453
+Children - Total: 433.0, Success: 330.0, MR: 0.2379
+Run 4:
+Adults - Total: 11996.0, Success: 11452.0, MR: 0.0453
+Children - Total: 433.0, Success: 330.0, MR: 0.2379
+Run 5:
+Adults - Total: 11996.0, Success: 11452.0, MR: 0.0453
+Children - Total: 433.0, Success: 330.0, MR: 0.2379
+Run 6:
+Adults - Total: 11996.0, Success: 11452.0, MR: 0.0453
+Children - Total: 433.0, Success: 330.0, MR: 0.2379
+Run 7:
+Adults - Total: 11996.0, Success: 11452.0, MR: 0.0453
+Children - Total: 433.0, Success: 330.0, MR: 0.2379
+Run 8:
+Adults - Total: 11996.0, Success: 11452.0, MR: 0.0453
+Children - Total: 433.0, Success: 330.0, MR: 0.2379
+Run 9:
+Adults - Total: 11996.0, Success: 11452.0, MR: 0.0453
+Children - Total: 433.0, Success: 330.0, MR: 0.2379
+
+Average Results:
+Adults - Avg Total: 11996.0, Avg Success: 11452.0, Avg MR: 0.0453
+Children - Avg Total: 433.0, Avg Success: 330.0, Avg MR: 0.2379
+Avg EOD: -0.1925
+
+Avg Two Proportions Z-test (P-value): 0.0000
+
+========== DT Type: alfnet ==========
+
+Run 0:
+Adults - Total: 11996.0, Success: 8997.0, MR: 0.2500
+Children - Total: 433.0, Success: 228.0, MR: 0.4734
+Run 1:
+Adults - Total: 11996.0, Success: 8997.0, MR: 0.2500
+Children - Total: 433.0, Success: 228.0, MR: 0.4734
+Run 2:
+Adults - Total: 11996.0, Success: 8997.0, MR: 0.2500
+Children - Total: 433.0, Success: 228.0, MR: 0.4734
+Run 3:
+Adults - Total: 11996.0, Success: 8997.0, MR: 0.2500
+Children - Total: 433.0, Success: 228.0, MR: 0.4734
+Run 4:
+Adults - Total: 11996.0, Success: 8997.0, MR: 0.2500
+Children - Total: 433.0, Success: 228.0, MR: 0.4734
+Run 5:
+Adults - Total: 11996.0, Success: 8997.0, MR: 0.2500
+Children - Total: 433.0, Success: 228.0, MR: 0.4734
+Run 6:
+Adults - Total: 11996.0, Success: 8997.0, MR: 0.2500
+Children - Total: 433.0, Success: 228.0, MR: 0.4734
+Run 7:
+Adults - Total: 11996.0, Success: 8997.0, MR: 0.2500
+Children - Total: 433.0, Success: 228.0, MR: 0.4734
+Run 8:
+Adults - Total: 11996.0, Success: 8997.0, MR: 0.2500
+Children - Total: 433.0, Success: 228.0, MR: 0.4734
+Run 9:
+Adults - Total: 11996.0, Success: 8997.0, MR: 0.2500
+Children - Total: 433.0, Success: 228.0, MR: 0.4734
+
+Average Results:
+Adults - Avg Total: 11996.0, Avg Success: 8997.0, Avg MR: 0.2500
+Children - Avg Total: 433.0, Avg Success: 228.0, Avg MR: 0.4734
+Avg EOD: -0.2234
+
+Avg Two Proportions Z-test (P-value): 0.0000
+
+========== DT Type: csp ==========
+
+Run 0:
+Adults - Total: 11996.0, Success: 8774.0, MR: 0.2686
+Children - Total: 433.0, Success: 242.0, MR: 0.4411
+Run 1:
+Adults - Total: 11996.0, Success: 8774.0, MR: 0.2686
+Children - Total: 433.0, Success: 242.0, MR: 0.4411
+Run 2:
+Adults - Total: 11996.0, Success: 8774.0, MR: 0.2686
+Children - Total: 433.0, Success: 242.0, MR: 0.4411
+Run 3:
+Adults - Total: 11996.0, Success: 8774.0, MR: 0.2686
+Children - Total: 433.0, Success: 242.0, MR: 0.4411
+Run 4:
+Adults - Total: 11996.0, Success: 8774.0, MR: 0.2686
+Children - Total: 433.0, Success: 242.0, MR: 0.4411
+Run 5:
+Adults - Total: 11996.0, Success: 8774.0, MR: 0.2686
+Children - Total: 433.0, Success: 242.0, MR: 0.4411
+Run 6:
+Adults - Total: 11996.0, Success: 8774.0, MR: 0.2686
+Children - Total: 433.0, Success: 242.0, MR: 0.4411
+Run 7:
+Adults - Total: 11996.0, Success: 8774.0, MR: 0.2686
+Children - Total: 433.0, Success: 242.0, MR: 0.4411
+Run 8:
+Adults - Total: 11996.0, Success: 8774.0, MR: 0.2686
+Children - Total: 433.0, Success: 242.0, MR: 0.4411
+Run 9:
+Adults - Total: 11996.0, Success: 8774.0, MR: 0.2686
+Children - Total: 433.0, Success: 242.0, MR: 0.4411
+
+Average Results:
+Adults - Avg Total: 11996.0, Avg Success: 8774.0, Avg MR: 0.2686
+Children - Avg Total: 433.0, Avg Success: 242.0, Avg MR: 0.4411
+Avg EOD: -0.1725
+
+Avg Two Proportions Z-test (P-value): 0.0000
+
+========== DT Type: mgan ==========
+
+Run 0:
+Adults - Total: 11996.0, Success: 8818.0, MR: 0.2649
+Children - Total: 433.0, Success: 255.0, MR: 0.4111
+Run 1:
+Adults - Total: 11996.0, Success: 8818.0, MR: 0.2649
+Children - Total: 433.0, Success: 255.0, MR: 0.4111
+Run 2:
+Adults - Total: 11996.0, Success: 8818.0, MR: 0.2649
+Children - Total: 433.0, Success: 255.0, MR: 0.4111
+Run 3:
+Adults - Total: 11996.0, Success: 8818.0, MR: 0.2649
+Children - Total: 433.0, Success: 255.0, MR: 0.4111
+Run 4:
+Adults - Total: 11996.0, Success: 8818.0, MR: 0.2649
+Children - Total: 433.0, Success: 255.0, MR: 0.4111
+Run 5:
+Adults - Total: 11996.0, Success: 8818.0, MR: 0.2649
+Children - Total: 433.0, Success: 255.0, MR: 0.4111
+Run 6:
+Adults - Total: 11996.0, Success: 8818.0, MR: 0.2649
+Children - Total: 433.0, Success: 255.0, MR: 0.4111
+Run 7:
+Adults - Total: 11996.0, Success: 8818.0, MR: 0.2649
+Children - Total: 433.0, Success: 255.0, MR: 0.4111
+Run 8:
+Adults - Total: 11996.0, Success: 8818.0, MR: 0.2649
+Children - Total: 433.0, Success: 255.0, MR: 0.4111
+Run 9:
+Adults - Total: 11996.0, Success: 8818.0, MR: 0.2649
+Children - Total: 433.0, Success: 255.0, MR: 0.4111
+
+Average Results:
+Adults - Avg Total: 11996.0, Avg Success: 8818.0, Avg MR: 0.2649
+Children - Avg Total: 433.0, Avg Success: 255.0, Avg MR: 0.4111
+Avg EOD: -0.1462
+
+Avg Two Proportions Z-test (P-value): 0.0000
+
+========== DT Type: prnet ==========
+
+Run 0:
+Adults - Total: 11996.0, Success: 8014.0, MR: 0.3319
+Children - Total: 433.0, Success: 201.0, MR: 0.5358
+Run 1:
+Adults - Total: 11996.0, Success: 8014.0, MR: 0.3319
+Children - Total: 433.0, Success: 201.0, MR: 0.5358
+Run 2:
+Adults - Total: 11996.0, Success: 8014.0, MR: 0.3319
+Children - Total: 433.0, Success: 201.0, MR: 0.5358
+Run 3:
+Adults - Total: 11996.0, Success: 8014.0, MR: 0.3319
+Children - Total: 433.0, Success: 201.0, MR: 0.5358
+Run 4:
+Adults - Total: 11996.0, Success: 8014.0, MR: 0.3319
+Children - Total: 433.0, Success: 201.0, MR: 0.5358
+Run 5:
+Adults - Total: 11996.0, Success: 8014.0, MR: 0.3319
+Children - Total: 433.0, Success: 201.0, MR: 0.5358
+Run 6:
+Adults - Total: 11996.0, Success: 8014.0, MR: 0.3319
+Children - Total: 433.0, Success: 201.0, MR: 0.5358
+Run 7:
+Adults - Total: 11996.0, Success: 8014.0, MR: 0.3319
+Children - Total: 433.0, Success: 201.0, MR: 0.5358
+Run 8:
+Adults - Total: 11996.0, Success: 8014.0, MR: 0.3319
+Children - Total: 433.0, Success: 201.0, MR: 0.5358
+Run 9:
+Adults - Total: 11996.0, Success: 8014.0, MR: 0.3319
+Children - Total: 433.0, Success: 201.0, MR: 0.5358
+
+Average Results:
+Adults - Avg Total: 11996.0, Avg Success: 8014.0, Avg MR: 0.3319
+Children - Avg Total: 433.0, Avg Success: 201.0, Avg MR: 0.5358
+Avg EOD: -0.2039
+
+Avg Two Proportions Z-test (P-value): 0.0000
+Evaluating attribute: age, Condition: rainy
+
+========== Evaluation Results ==========
+
+Current Testing Attribute: Age
+
+========== DT Type: yolox ==========
+
+Run 0:
+Adults - Total: 617.0, Success: 559.0, MR: 0.0940
+Children - Total: 20.0, Success: 14.0, MR: 0.3000
+Run 1:
+Adults - Total: 617.0, Success: 559.0, MR: 0.0940
+Children - Total: 20.0, Success: 14.0, MR: 0.3000
+Run 2:
+Adults - Total: 617.0, Success: 559.0, MR: 0.0940
+Children - Total: 20.0, Success: 14.0, MR: 0.3000
+Run 3:
+Adults - Total: 617.0, Success: 559.0, MR: 0.0940
+Children - Total: 20.0, Success: 14.0, MR: 0.3000
+Run 4:
+Adults - Total: 617.0, Success: 559.0, MR: 0.0940
+Children - Total: 20.0, Success: 14.0, MR: 0.3000
+Run 5:
+Adults - Total: 617.0, Success: 559.0, MR: 0.0940
+Children - Total: 20.0, Success: 14.0, MR: 0.3000
+Run 6:
+Adults - Total: 617.0, Success: 559.0, MR: 0.0940
+Children - Total: 20.0, Success: 14.0, MR: 0.3000
+Run 7:
+Adults - Total: 617.0, Success: 559.0, MR: 0.0940
+Children - Total: 20.0, Success: 14.0, MR: 0.3000
+Run 8:
+Adults - Total: 617.0, Success: 559.0, MR: 0.0940
+Children - Total: 20.0, Success: 14.0, MR: 0.3000
+Run 9:
+Adults - Total: 617.0, Success: 559.0, MR: 0.0940
+Children - Total: 20.0, Success: 14.0, MR: 0.3000
+
+Average Results:
+Adults - Avg Total: 617.0, Avg Success: 559.0, Avg MR: 0.0940
+Children - Avg Total: 20.0, Avg Success: 14.0, Avg MR: 0.3000
+Avg EOD: -0.2060
+
+Avg Two Proportions Z-test (P-value): 0.0026
+
+========== DT Type: retinanet ==========
+
+Run 0:
+Adults - Total: 617.0, Success: 533.0, MR: 0.1361
+Children - Total: 20.0, Success: 12.0, MR: 0.4000
+Run 1:
+Adults - Total: 617.0, Success: 533.0, MR: 0.1361
+Children - Total: 20.0, Success: 12.0, MR: 0.4000
+Run 2:
+Adults - Total: 617.0, Success: 533.0, MR: 0.1361
+Children - Total: 20.0, Success: 12.0, MR: 0.4000
+Run 3:
+Adults - Total: 617.0, Success: 533.0, MR: 0.1361
+Children - Total: 20.0, Success: 12.0, MR: 0.4000
+Run 4:
+Adults - Total: 617.0, Success: 533.0, MR: 0.1361
+Children - Total: 20.0, Success: 12.0, MR: 0.4000
+Run 5:
+Adults - Total: 617.0, Success: 533.0, MR: 0.1361
+Children - Total: 20.0, Success: 12.0, MR: 0.4000
+Run 6:
+Adults - Total: 617.0, Success: 533.0, MR: 0.1361
+Children - Total: 20.0, Success: 12.0, MR: 0.4000
+Run 7:
+Adults - Total: 617.0, Success: 533.0, MR: 0.1361
+Children - Total: 20.0, Success: 12.0, MR: 0.4000
+Run 8:
+Adults - Total: 617.0, Success: 533.0, MR: 0.1361
+Children - Total: 20.0, Success: 12.0, MR: 0.4000
+Run 9:
+Adults - Total: 617.0, Success: 533.0, MR: 0.1361
+Children - Total: 20.0, Success: 12.0, MR: 0.4000
+
+Average Results:
+Adults - Avg Total: 617.0, Avg Success: 533.0, Avg MR: 0.1361
+Children - Avg Total: 20.0, Avg Success: 12.0, Avg MR: 0.4000
+Avg EOD: -0.2639
+
+Avg Two Proportions Z-test (P-value): 0.0010
+
+========== DT Type: faster_rcnn ==========
+
+Run 0:
+Adults - Total: 617.0, Success: 587.0, MR: 0.0486
+Children - Total: 20.0, Success: 14.0, MR: 0.3000
+Run 1:
+Adults - Total: 617.0, Success: 587.0, MR: 0.0486
+Children - Total: 20.0, Success: 14.0, MR: 0.3000
+Run 2:
+Adults - Total: 617.0, Success: 587.0, MR: 0.0486
+Children - Total: 20.0, Success: 14.0, MR: 0.3000
+Run 3:
+Adults - Total: 617.0, Success: 587.0, MR: 0.0486
+Children - Total: 20.0, Success: 14.0, MR: 0.3000
+Run 4:
+Adults - Total: 617.0, Success: 587.0, MR: 0.0486
+Children - Total: 20.0, Success: 14.0, MR: 0.3000
+Run 5:
+Adults - Total: 617.0, Success: 587.0, MR: 0.0486
+Children - Total: 20.0, Success: 14.0, MR: 0.3000
+Run 6:
+Adults - Total: 617.0, Success: 587.0, MR: 0.0486
+Children - Total: 20.0, Success: 14.0, MR: 0.3000
+Run 7:
+Adults - Total: 617.0, Success: 587.0, MR: 0.0486
+Children - Total: 20.0, Success: 14.0, MR: 0.3000
+Run 8:
+Adults - Total: 617.0, Success: 587.0, MR: 0.0486
+Children - Total: 20.0, Success: 14.0, MR: 0.3000
+Run 9:
+Adults - Total: 617.0, Success: 587.0, MR: 0.0486
+Children - Total: 20.0, Success: 14.0, MR: 0.3000
+
+Average Results:
+Adults - Avg Total: 617.0, Avg Success: 587.0, Avg MR: 0.0486
+Children - Avg Total: 20.0, Avg Success: 14.0, Avg MR: 0.3000
+Avg EOD: -0.2514
+
+Avg Two Proportions Z-test (P-value): 0.0000
+
+========== DT Type: cascade_rcnn ==========
+
+Run 0:
+Adults - Total: 617.0, Success: 590.0, MR: 0.0438
+Children - Total: 20.0, Success: 15.0, MR: 0.2500
+Run 1:
+Adults - Total: 617.0, Success: 590.0, MR: 0.0438
+Children - Total: 20.0, Success: 15.0, MR: 0.2500
+Run 2:
+Adults - Total: 617.0, Success: 590.0, MR: 0.0438
+Children - Total: 20.0, Success: 15.0, MR: 0.2500
+Run 3:
+Adults - Total: 617.0, Success: 590.0, MR: 0.0438
+Children - Total: 20.0, Success: 15.0, MR: 0.2500
+Run 4:
+Adults - Total: 617.0, Success: 590.0, MR: 0.0438
+Children - Total: 20.0, Success: 15.0, MR: 0.2500
+Run 5:
+Adults - Total: 617.0, Success: 590.0, MR: 0.0438
+Children - Total: 20.0, Success: 15.0, MR: 0.2500
+Run 6:
+Adults - Total: 617.0, Success: 590.0, MR: 0.0438
+Children - Total: 20.0, Success: 15.0, MR: 0.2500
+Run 7:
+Adults - Total: 617.0, Success: 590.0, MR: 0.0438
+Children - Total: 20.0, Success: 15.0, MR: 0.2500
+Run 8:
+Adults - Total: 617.0, Success: 590.0, MR: 0.0438
+Children - Total: 20.0, Success: 15.0, MR: 0.2500
+Run 9:
+Adults - Total: 617.0, Success: 590.0, MR: 0.0438
+Children - Total: 20.0, Success: 15.0, MR: 0.2500
+
+Average Results:
+Adults - Avg Total: 617.0, Avg Success: 590.0, Avg MR: 0.0438
+Children - Avg Total: 20.0, Avg Success: 15.0, Avg MR: 0.2500
+Avg EOD: -0.2062
+
+Avg Two Proportions Z-test (P-value): 0.0000
+
+========== DT Type: alfnet ==========
+
+Run 0:
+Adults - Total: 617.0, Success: 339.0, MR: 0.4506
+Children - Total: 20.0, Success: 5.0, MR: 0.7500
+Run 1:
+Adults - Total: 617.0, Success: 339.0, MR: 0.4506
+Children - Total: 20.0, Success: 5.0, MR: 0.7500
+Run 2:
+Adults - Total: 617.0, Success: 339.0, MR: 0.4506
+Children - Total: 20.0, Success: 5.0, MR: 0.7500
+Run 3:
+Adults - Total: 617.0, Success: 339.0, MR: 0.4506
+Children - Total: 20.0, Success: 5.0, MR: 0.7500
+Run 4:
+Adults - Total: 617.0, Success: 339.0, MR: 0.4506
+Children - Total: 20.0, Success: 5.0, MR: 0.7500
+Run 5:
+Adults - Total: 617.0, Success: 339.0, MR: 0.4506
+Children - Total: 20.0, Success: 5.0, MR: 0.7500
+Run 6:
+Adults - Total: 617.0, Success: 339.0, MR: 0.4506
+Children - Total: 20.0, Success: 5.0, MR: 0.7500
+Run 7:
+Adults - Total: 617.0, Success: 339.0, MR: 0.4506
+Children - Total: 20.0, Success: 5.0, MR: 0.7500
+Run 8:
+Adults - Total: 617.0, Success: 339.0, MR: 0.4506
+Children - Total: 20.0, Success: 5.0, MR: 0.7500
+Run 9:
+Adults - Total: 617.0, Success: 339.0, MR: 0.4506
+Children - Total: 20.0, Success: 5.0, MR: 0.7500
+
+Average Results:
+Adults - Avg Total: 617.0, Avg Success: 339.0, Avg MR: 0.4506
+Children - Avg Total: 20.0, Avg Success: 5.0, Avg MR: 0.7500
+Avg EOD: -0.2994
+
+Avg Two Proportions Z-test (P-value): 0.0082
+
+========== DT Type: csp ==========
+
+Run 0:
+Adults - Total: 617.0, Success: 316.0, MR: 0.4878
+Children - Total: 20.0, Success: 7.0, MR: 0.6500
+Run 1:
+Adults - Total: 617.0, Success: 316.0, MR: 0.4878
+Children - Total: 20.0, Success: 7.0, MR: 0.6500
+Run 2:
+Adults - Total: 617.0, Success: 316.0, MR: 0.4878
+Children - Total: 20.0, Success: 7.0, MR: 0.6500
+Run 3:
+Adults - Total: 617.0, Success: 316.0, MR: 0.4878
+Children - Total: 20.0, Success: 7.0, MR: 0.6500
+Run 4:
+Adults - Total: 617.0, Success: 316.0, MR: 0.4878
+Children - Total: 20.0, Success: 7.0, MR: 0.6500
+Run 5:
+Adults - Total: 617.0, Success: 316.0, MR: 0.4878
+Children - Total: 20.0, Success: 7.0, MR: 0.6500
+Run 6:
+Adults - Total: 617.0, Success: 316.0, MR: 0.4878
+Children - Total: 20.0, Success: 7.0, MR: 0.6500
+Run 7:
+Adults - Total: 617.0, Success: 316.0, MR: 0.4878
+Children - Total: 20.0, Success: 7.0, MR: 0.6500
+Run 8:
+Adults - Total: 617.0, Success: 316.0, MR: 0.4878
+Children - Total: 20.0, Success: 7.0, MR: 0.6500
+Run 9:
+Adults - Total: 617.0, Success: 316.0, MR: 0.4878
+Children - Total: 20.0, Success: 7.0, MR: 0.6500
+
+Average Results:
+Adults - Avg Total: 617.0, Avg Success: 316.0, Avg MR: 0.4878
+Children - Avg Total: 20.0, Avg Success: 7.0, Avg MR: 0.6500
+Avg EOD: -0.1622
+
+Avg Two Proportions Z-test (P-value): 0.1534
+
+========== DT Type: mgan ==========
+
+Run 0:
+Adults - Total: 617.0, Success: 290.0, MR: 0.5300
+Children - Total: 20.0, Success: 7.0, MR: 0.6500
+Run 1:
+Adults - Total: 617.0, Success: 290.0, MR: 0.5300
+Children - Total: 20.0, Success: 7.0, MR: 0.6500
+Run 2:
+Adults - Total: 617.0, Success: 290.0, MR: 0.5300
+Children - Total: 20.0, Success: 7.0, MR: 0.6500
+Run 3:
+Adults - Total: 617.0, Success: 290.0, MR: 0.5300
+Children - Total: 20.0, Success: 7.0, MR: 0.6500
+Run 4:
+Adults - Total: 617.0, Success: 290.0, MR: 0.5300
+Children - Total: 20.0, Success: 7.0, MR: 0.6500
+Run 5:
+Adults - Total: 617.0, Success: 290.0, MR: 0.5300
+Children - Total: 20.0, Success: 7.0, MR: 0.6500
+Run 6:
+Adults - Total: 617.0, Success: 290.0, MR: 0.5300
+Children - Total: 20.0, Success: 7.0, MR: 0.6500
+Run 7:
+Adults - Total: 617.0, Success: 290.0, MR: 0.5300
+Children - Total: 20.0, Success: 7.0, MR: 0.6500
+Run 8:
+Adults - Total: 617.0, Success: 290.0, MR: 0.5300
+Children - Total: 20.0, Success: 7.0, MR: 0.6500
+Run 9:
+Adults - Total: 617.0, Success: 290.0, MR: 0.5300
+Children - Total: 20.0, Success: 7.0, MR: 0.6500
+
+Average Results:
+Adults - Avg Total: 617.0, Avg Success: 290.0, Avg MR: 0.5300
+Children - Avg Total: 20.0, Avg Success: 7.0, Avg MR: 0.6500
+Avg EOD: -0.1200
+
+Avg Two Proportions Z-test (P-value): 0.2897
+
+========== DT Type: prnet ==========
+
+Run 0:
+Adults - Total: 617.0, Success: 288.0, MR: 0.5332
+Children - Total: 20.0, Success: 5.0, MR: 0.7500
+Run 1:
+Adults - Total: 617.0, Success: 288.0, MR: 0.5332
+Children - Total: 20.0, Success: 5.0, MR: 0.7500
+Run 2:
+Adults - Total: 617.0, Success: 288.0, MR: 0.5332
+Children - Total: 20.0, Success: 5.0, MR: 0.7500
+Run 3:
+Adults - Total: 617.0, Success: 288.0, MR: 0.5332
+Children - Total: 20.0, Success: 5.0, MR: 0.7500
+Run 4:
+Adults - Total: 617.0, Success: 288.0, MR: 0.5332
+Children - Total: 20.0, Success: 5.0, MR: 0.7500
+Run 5:
+Adults - Total: 617.0, Success: 288.0, MR: 0.5332
+Children - Total: 20.0, Success: 5.0, MR: 0.7500
+Run 6:
+Adults - Total: 617.0, Success: 288.0, MR: 0.5332
+Children - Total: 20.0, Success: 5.0, MR: 0.7500
+Run 7:
+Adults - Total: 617.0, Success: 288.0, MR: 0.5332
+Children - Total: 20.0, Success: 5.0, MR: 0.7500
+Run 8:
+Adults - Total: 617.0, Success: 288.0, MR: 0.5332
+Children - Total: 20.0, Success: 5.0, MR: 0.7500
+Run 9:
+Adults - Total: 617.0, Success: 288.0, MR: 0.5332
+Children - Total: 20.0, Success: 5.0, MR: 0.7500
+
+Average Results:
+Adults - Avg Total: 617.0, Avg Success: 288.0, Avg MR: 0.5332
+Children - Avg Total: 20.0, Avg Success: 5.0, Avg MR: 0.7500
+Avg EOD: -0.2168
+
+Avg Two Proportions Z-test (P-value): 0.0556
+Evaluating attribute: skin, Condition: non-rainy
+
+========== Evaluation Results ==========
+
+Current Testing Attribute: Skin
+
+========== DT Type: yolox ==========
+
+Run 0:
+Light-Skin - Total: 1983.0, Success: 1900.0, MR: 0.0419
+Dark-Skin - Total: 577.0, Success: 557.0, MR: 0.0347
+Run 1:
+Light-Skin - Total: 1983.0, Success: 1900.0, MR: 0.0419
+Dark-Skin - Total: 577.0, Success: 557.0, MR: 0.0347
+Run 2:
+Light-Skin - Total: 1983.0, Success: 1900.0, MR: 0.0419
+Dark-Skin - Total: 577.0, Success: 557.0, MR: 0.0347
+Run 3:
+Light-Skin - Total: 1983.0, Success: 1900.0, MR: 0.0419
+Dark-Skin - Total: 577.0, Success: 557.0, MR: 0.0347
+Run 4:
+Light-Skin - Total: 1983.0, Success: 1900.0, MR: 0.0419
+Dark-Skin - Total: 577.0, Success: 557.0, MR: 0.0347
+Run 5:
+Light-Skin - Total: 1983.0, Success: 1900.0, MR: 0.0419
+Dark-Skin - Total: 577.0, Success: 557.0, MR: 0.0347
+Run 6:
+Light-Skin - Total: 1983.0, Success: 1900.0, MR: 0.0419
+Dark-Skin - Total: 577.0, Success: 557.0, MR: 0.0347
+Run 7:
+Light-Skin - Total: 1983.0, Success: 1900.0, MR: 0.0419
+Dark-Skin - Total: 577.0, Success: 557.0, MR: 0.0347
+Run 8:
+Light-Skin - Total: 1983.0, Success: 1900.0, MR: 0.0419
+Dark-Skin - Total: 577.0, Success: 557.0, MR: 0.0347
+Run 9:
+Light-Skin - Total: 1983.0, Success: 1900.0, MR: 0.0419
+Dark-Skin - Total: 577.0, Success: 557.0, MR: 0.0347
+
+Average Results:
+Light-Skin - Avg Total: 1983.0, Avg Success: 1900.0, Avg MR: 0.0419
+Dark-Skin - Avg Total: 577.0, Avg Success: 557.0, Avg MR: 0.0347
+Avg EOD: 0.0072
+
+Avg Two Proportions Z-test (P-value): 0.4390
+
+========== DT Type: retinanet ==========
+
+Run 0:
+Light-Skin - Total: 1983.0, Success: 1853.0, MR: 0.0656
+Dark-Skin - Total: 577.0, Success: 555.0, MR: 0.0381
+Run 1:
+Light-Skin - Total: 1983.0, Success: 1853.0, MR: 0.0656
+Dark-Skin - Total: 577.0, Success: 555.0, MR: 0.0381
+Run 2:
+Light-Skin - Total: 1983.0, Success: 1853.0, MR: 0.0656
+Dark-Skin - Total: 577.0, Success: 555.0, MR: 0.0381
+Run 3:
+Light-Skin - Total: 1983.0, Success: 1853.0, MR: 0.0656
+Dark-Skin - Total: 577.0, Success: 555.0, MR: 0.0381
+Run 4:
+Light-Skin - Total: 1983.0, Success: 1853.0, MR: 0.0656
+Dark-Skin - Total: 577.0, Success: 555.0, MR: 0.0381
+Run 5:
+Light-Skin - Total: 1983.0, Success: 1853.0, MR: 0.0656
+Dark-Skin - Total: 577.0, Success: 555.0, MR: 0.0381
+Run 6:
+Light-Skin - Total: 1983.0, Success: 1853.0, MR: 0.0656
+Dark-Skin - Total: 577.0, Success: 555.0, MR: 0.0381
+Run 7:
+Light-Skin - Total: 1983.0, Success: 1853.0, MR: 0.0656
+Dark-Skin - Total: 577.0, Success: 555.0, MR: 0.0381
+Run 8:
+Light-Skin - Total: 1983.0, Success: 1853.0, MR: 0.0656
+Dark-Skin - Total: 577.0, Success: 555.0, MR: 0.0381
+Run 9:
+Light-Skin - Total: 1983.0, Success: 1853.0, MR: 0.0656
+Dark-Skin - Total: 577.0, Success: 555.0, MR: 0.0381
+
+Average Results:
+Light-Skin - Avg Total: 1983.0, Avg Success: 1853.0, Avg MR: 0.0656
+Dark-Skin - Avg Total: 577.0, Avg Success: 555.0, Avg MR: 0.0381
+Avg EOD: 0.0274
+
+Avg Two Proportions Z-test (P-value): 0.0141
+
+========== DT Type: faster_rcnn ==========
+
+Run 0:
+Light-Skin - Total: 1983.0, Success: 1892.0, MR: 0.0459
+Dark-Skin - Total: 577.0, Success: 562.0, MR: 0.0260
+Run 1:
+Light-Skin - Total: 1983.0, Success: 1892.0, MR: 0.0459
+Dark-Skin - Total: 577.0, Success: 562.0, MR: 0.0260
+Run 2:
+Light-Skin - Total: 1983.0, Success: 1892.0, MR: 0.0459
+Dark-Skin - Total: 577.0, Success: 562.0, MR: 0.0260
+Run 3:
+Light-Skin - Total: 1983.0, Success: 1892.0, MR: 0.0459
+Dark-Skin - Total: 577.0, Success: 562.0, MR: 0.0260
+Run 4:
+Light-Skin - Total: 1983.0, Success: 1892.0, MR: 0.0459
+Dark-Skin - Total: 577.0, Success: 562.0, MR: 0.0260
+Run 5:
+Light-Skin - Total: 1983.0, Success: 1892.0, MR: 0.0459
+Dark-Skin - Total: 577.0, Success: 562.0, MR: 0.0260
+Run 6:
+Light-Skin - Total: 1983.0, Success: 1892.0, MR: 0.0459
+Dark-Skin - Total: 577.0, Success: 562.0, MR: 0.0260
+Run 7:
+Light-Skin - Total: 1983.0, Success: 1892.0, MR: 0.0459
+Dark-Skin - Total: 577.0, Success: 562.0, MR: 0.0260
+Run 8:
+Light-Skin - Total: 1983.0, Success: 1892.0, MR: 0.0459
+Dark-Skin - Total: 577.0, Success: 562.0, MR: 0.0260
+Run 9:
+Light-Skin - Total: 1983.0, Success: 1892.0, MR: 0.0459
+Dark-Skin - Total: 577.0, Success: 562.0, MR: 0.0260
+
+Average Results:
+Light-Skin - Avg Total: 1983.0, Avg Success: 1892.0, Avg MR: 0.0459
+Dark-Skin - Avg Total: 577.0, Avg Success: 562.0, Avg MR: 0.0260
+Avg EOD: 0.0199
+
+Avg Two Proportions Z-test (P-value): 0.0348
+
+========== DT Type: cascade_rcnn ==========
+
+Run 0:
+Light-Skin - Total: 1983.0, Success: 1905.0, MR: 0.0393
+Dark-Skin - Total: 577.0, Success: 562.0, MR: 0.0260
+Run 1:
+Light-Skin - Total: 1983.0, Success: 1905.0, MR: 0.0393
+Dark-Skin - Total: 577.0, Success: 562.0, MR: 0.0260
+Run 2:
+Light-Skin - Total: 1983.0, Success: 1905.0, MR: 0.0393
+Dark-Skin - Total: 577.0, Success: 562.0, MR: 0.0260
+Run 3:
+Light-Skin - Total: 1983.0, Success: 1905.0, MR: 0.0393
+Dark-Skin - Total: 577.0, Success: 562.0, MR: 0.0260
+Run 4:
+Light-Skin - Total: 1983.0, Success: 1905.0, MR: 0.0393
+Dark-Skin - Total: 577.0, Success: 562.0, MR: 0.0260
+Run 5:
+Light-Skin - Total: 1983.0, Success: 1905.0, MR: 0.0393
+Dark-Skin - Total: 577.0, Success: 562.0, MR: 0.0260
+Run 6:
+Light-Skin - Total: 1983.0, Success: 1905.0, MR: 0.0393
+Dark-Skin - Total: 577.0, Success: 562.0, MR: 0.0260
+Run 7:
+Light-Skin - Total: 1983.0, Success: 1905.0, MR: 0.0393
+Dark-Skin - Total: 577.0, Success: 562.0, MR: 0.0260
+Run 8:
+Light-Skin - Total: 1983.0, Success: 1905.0, MR: 0.0393
+Dark-Skin - Total: 577.0, Success: 562.0, MR: 0.0260
+Run 9:
+Light-Skin - Total: 1983.0, Success: 1905.0, MR: 0.0393
+Dark-Skin - Total: 577.0, Success: 562.0, MR: 0.0260
+
+Average Results:
+Light-Skin - Avg Total: 1983.0, Avg Success: 1905.0, Avg MR: 0.0393
+Dark-Skin - Avg Total: 577.0, Avg Success: 562.0, Avg MR: 0.0260
+Avg EOD: 0.0133
+
+Avg Two Proportions Z-test (P-value): 0.1318
+
+========== DT Type: alfnet ==========
+
+Run 0:
+Light-Skin - Total: 1983.0, Success: 1291.0, MR: 0.3490
+Dark-Skin - Total: 577.0, Success: 364.0, MR: 0.3692
+Run 1:
+Light-Skin - Total: 1983.0, Success: 1291.0, MR: 0.3490
+Dark-Skin - Total: 577.0, Success: 364.0, MR: 0.3692
+Run 2:
+Light-Skin - Total: 1983.0, Success: 1291.0, MR: 0.3490
+Dark-Skin - Total: 577.0, Success: 364.0, MR: 0.3692
+Run 3:
+Light-Skin - Total: 1983.0, Success: 1291.0, MR: 0.3490
+Dark-Skin - Total: 577.0, Success: 364.0, MR: 0.3692
+Run 4:
+Light-Skin - Total: 1983.0, Success: 1291.0, MR: 0.3490
+Dark-Skin - Total: 577.0, Success: 364.0, MR: 0.3692
+Run 5:
+Light-Skin - Total: 1983.0, Success: 1291.0, MR: 0.3490
+Dark-Skin - Total: 577.0, Success: 364.0, MR: 0.3692
+Run 6:
+Light-Skin - Total: 1983.0, Success: 1291.0, MR: 0.3490
+Dark-Skin - Total: 577.0, Success: 364.0, MR: 0.3692
+Run 7:
+Light-Skin - Total: 1983.0, Success: 1291.0, MR: 0.3490
+Dark-Skin - Total: 577.0, Success: 364.0, MR: 0.3692
+Run 8:
+Light-Skin - Total: 1983.0, Success: 1291.0, MR: 0.3490
+Dark-Skin - Total: 577.0, Success: 364.0, MR: 0.3692
+Run 9:
+Light-Skin - Total: 1983.0, Success: 1291.0, MR: 0.3490
+Dark-Skin - Total: 577.0, Success: 364.0, MR: 0.3692
+
+Average Results:
+Light-Skin - Avg Total: 1983.0, Avg Success: 1291.0, Avg MR: 0.3490
+Dark-Skin - Avg Total: 577.0, Avg Success: 364.0, Avg MR: 0.3692
+Avg EOD: -0.0202
+
+Avg Two Proportions Z-test (P-value): 0.3721
+
+========== DT Type: csp ==========
+
+Run 0:
+Light-Skin - Total: 1983.0, Success: 931.0, MR: 0.5305
+Dark-Skin - Total: 577.0, Success: 248.0, MR: 0.5702
+Run 1:
+Light-Skin - Total: 1983.0, Success: 931.0, MR: 0.5305
+Dark-Skin - Total: 577.0, Success: 248.0, MR: 0.5702
+Run 2:
+Light-Skin - Total: 1983.0, Success: 931.0, MR: 0.5305
+Dark-Skin - Total: 577.0, Success: 248.0, MR: 0.5702
+Run 3:
+Light-Skin - Total: 1983.0, Success: 931.0, MR: 0.5305
+Dark-Skin - Total: 577.0, Success: 248.0, MR: 0.5702
+Run 4:
+Light-Skin - Total: 1983.0, Success: 931.0, MR: 0.5305
+Dark-Skin - Total: 577.0, Success: 248.0, MR: 0.5702
+Run 5:
+Light-Skin - Total: 1983.0, Success: 931.0, MR: 0.5305
+Dark-Skin - Total: 577.0, Success: 248.0, MR: 0.5702
+Run 6:
+Light-Skin - Total: 1983.0, Success: 931.0, MR: 0.5305
+Dark-Skin - Total: 577.0, Success: 248.0, MR: 0.5702
+Run 7:
+Light-Skin - Total: 1983.0, Success: 931.0, MR: 0.5305
+Dark-Skin - Total: 577.0, Success: 248.0, MR: 0.5702
+Run 8:
+Light-Skin - Total: 1983.0, Success: 931.0, MR: 0.5305
+Dark-Skin - Total: 577.0, Success: 248.0, MR: 0.5702
+Run 9:
+Light-Skin - Total: 1983.0, Success: 931.0, MR: 0.5305
+Dark-Skin - Total: 577.0, Success: 248.0, MR: 0.5702
+
+Average Results:
+Light-Skin - Avg Total: 1983.0, Avg Success: 931.0, Avg MR: 0.5305
+Dark-Skin - Avg Total: 577.0, Avg Success: 248.0, Avg MR: 0.5702
+Avg EOD: -0.0397
+
+Avg Two Proportions Z-test (P-value): 0.0924
+
+========== DT Type: mgan ==========
+
+Run 0:
+Light-Skin - Total: 1983.0, Success: 1097.0, MR: 0.4468
+Dark-Skin - Total: 577.0, Success: 301.0, MR: 0.4783
+Run 1:
+Light-Skin - Total: 1983.0, Success: 1097.0, MR: 0.4468
+Dark-Skin - Total: 577.0, Success: 301.0, MR: 0.4783
+Run 2:
+Light-Skin - Total: 1983.0, Success: 1097.0, MR: 0.4468
+Dark-Skin - Total: 577.0, Success: 301.0, MR: 0.4783
+Run 3:
+Light-Skin - Total: 1983.0, Success: 1097.0, MR: 0.4468
+Dark-Skin - Total: 577.0, Success: 301.0, MR: 0.4783
+Run 4:
+Light-Skin - Total: 1983.0, Success: 1097.0, MR: 0.4468
+Dark-Skin - Total: 577.0, Success: 301.0, MR: 0.4783
+Run 5:
+Light-Skin - Total: 1983.0, Success: 1097.0, MR: 0.4468
+Dark-Skin - Total: 577.0, Success: 301.0, MR: 0.4783
+Run 6:
+Light-Skin - Total: 1983.0, Success: 1097.0, MR: 0.4468
+Dark-Skin - Total: 577.0, Success: 301.0, MR: 0.4783
+Run 7:
+Light-Skin - Total: 1983.0, Success: 1097.0, MR: 0.4468
+Dark-Skin - Total: 577.0, Success: 301.0, MR: 0.4783
+Run 8:
+Light-Skin - Total: 1983.0, Success: 1097.0, MR: 0.4468
+Dark-Skin - Total: 577.0, Success: 301.0, MR: 0.4783
+Run 9:
+Light-Skin - Total: 1983.0, Success: 1097.0, MR: 0.4468
+Dark-Skin - Total: 577.0, Success: 301.0, MR: 0.4783
+
+Average Results:
+Light-Skin - Avg Total: 1983.0, Avg Success: 1097.0, Avg MR: 0.4468
+Dark-Skin - Avg Total: 577.0, Avg Success: 301.0, Avg MR: 0.4783
+Avg EOD: -0.0315
+
+Avg Two Proportions Z-test (P-value): 0.1805
+
+========== DT Type: prnet ==========
+
+Run 0:
+Light-Skin - Total: 1983.0, Success: 952.0, MR: 0.5199
+Dark-Skin - Total: 577.0, Success: 272.0, MR: 0.5286
+Run 1:
+Light-Skin - Total: 1983.0, Success: 952.0, MR: 0.5199
+Dark-Skin - Total: 577.0, Success: 272.0, MR: 0.5286
+Run 2:
+Light-Skin - Total: 1983.0, Success: 952.0, MR: 0.5199
+Dark-Skin - Total: 577.0, Success: 272.0, MR: 0.5286
+Run 3:
+Light-Skin - Total: 1983.0, Success: 952.0, MR: 0.5199
+Dark-Skin - Total: 577.0, Success: 272.0, MR: 0.5286
+Run 4:
+Light-Skin - Total: 1983.0, Success: 952.0, MR: 0.5199
+Dark-Skin - Total: 577.0, Success: 272.0, MR: 0.5286
+Run 5:
+Light-Skin - Total: 1983.0, Success: 952.0, MR: 0.5199
+Dark-Skin - Total: 577.0, Success: 272.0, MR: 0.5286
+Run 6:
+Light-Skin - Total: 1983.0, Success: 952.0, MR: 0.5199
+Dark-Skin - Total: 577.0, Success: 272.0, MR: 0.5286
+Run 7:
+Light-Skin - Total: 1983.0, Success: 952.0, MR: 0.5199
+Dark-Skin - Total: 577.0, Success: 272.0, MR: 0.5286
+Run 8:
+Light-Skin - Total: 1983.0, Success: 952.0, MR: 0.5199
+Dark-Skin - Total: 577.0, Success: 272.0, MR: 0.5286
+Run 9:
+Light-Skin - Total: 1983.0, Success: 952.0, MR: 0.5199
+Dark-Skin - Total: 577.0, Success: 272.0, MR: 0.5286
+
+Average Results:
+Light-Skin - Avg Total: 1983.0, Avg Success: 952.0, Avg MR: 0.5199
+Dark-Skin - Avg Total: 577.0, Avg Success: 272.0, Avg MR: 0.5286
+Avg EOD: -0.0087
+
+Avg Two Proportions Z-test (P-value): 0.7134
+Evaluating attribute: skin, Condition: rainy
+
+========== Evaluation Results ==========
+
+Current Testing Attribute: Skin
+
+========== DT Type: yolox ==========
+
+Run 0:
+Light-Skin - Total: 124.0, Success: 103.0, MR: 0.1694
+Dark-Skin - Total: 37.0, Success: 32.0, MR: 0.1351
+Run 1:
+Light-Skin - Total: 124.0, Success: 103.0, MR: 0.1694
+Dark-Skin - Total: 37.0, Success: 32.0, MR: 0.1351
+Run 2:
+Light-Skin - Total: 124.0, Success: 103.0, MR: 0.1694
+Dark-Skin - Total: 37.0, Success: 32.0, MR: 0.1351
+Run 3:
+Light-Skin - Total: 124.0, Success: 103.0, MR: 0.1694
+Dark-Skin - Total: 37.0, Success: 32.0, MR: 0.1351
+Run 4:
+Light-Skin - Total: 124.0, Success: 103.0, MR: 0.1694
+Dark-Skin - Total: 37.0, Success: 32.0, MR: 0.1351
+Run 5:
+Light-Skin - Total: 124.0, Success: 103.0, MR: 0.1694
+Dark-Skin - Total: 37.0, Success: 32.0, MR: 0.1351
+Run 6:
+Light-Skin - Total: 124.0, Success: 103.0, MR: 0.1694
+Dark-Skin - Total: 37.0, Success: 32.0, MR: 0.1351
+Run 7:
+Light-Skin - Total: 124.0, Success: 103.0, MR: 0.1694
+Dark-Skin - Total: 37.0, Success: 32.0, MR: 0.1351
+Run 8:
+Light-Skin - Total: 124.0, Success: 103.0, MR: 0.1694
+Dark-Skin - Total: 37.0, Success: 32.0, MR: 0.1351
+Run 9:
+Light-Skin - Total: 124.0, Success: 103.0, MR: 0.1694
+Dark-Skin - Total: 37.0, Success: 32.0, MR: 0.1351
+
+Average Results:
+Light-Skin - Avg Total: 124.0, Avg Success: 103.0, Avg MR: 0.1694
+Dark-Skin - Avg Total: 37.0, Avg Success: 32.0, Avg MR: 0.1351
+Avg EOD: 0.0342
+
+Avg Two Proportions Z-test (P-value): 0.6196
+
+========== DT Type: retinanet ==========
+
+Run 0:
+Light-Skin - Total: 124.0, Success: 97.0, MR: 0.2177
+Dark-Skin - Total: 37.0, Success: 32.0, MR: 0.1351
+Run 1:
+Light-Skin - Total: 124.0, Success: 97.0, MR: 0.2177
+Dark-Skin - Total: 37.0, Success: 32.0, MR: 0.1351
+Run 2:
+Light-Skin - Total: 124.0, Success: 97.0, MR: 0.2177
+Dark-Skin - Total: 37.0, Success: 32.0, MR: 0.1351
+Run 3:
+Light-Skin - Total: 124.0, Success: 97.0, MR: 0.2177
+Dark-Skin - Total: 37.0, Success: 32.0, MR: 0.1351
+Run 4:
+Light-Skin - Total: 124.0, Success: 97.0, MR: 0.2177
+Dark-Skin - Total: 37.0, Success: 32.0, MR: 0.1351
+Run 5:
+Light-Skin - Total: 124.0, Success: 97.0, MR: 0.2177
+Dark-Skin - Total: 37.0, Success: 32.0, MR: 0.1351
+Run 6:
+Light-Skin - Total: 124.0, Success: 97.0, MR: 0.2177
+Dark-Skin - Total: 37.0, Success: 32.0, MR: 0.1351
+Run 7:
+Light-Skin - Total: 124.0, Success: 97.0, MR: 0.2177
+Dark-Skin - Total: 37.0, Success: 32.0, MR: 0.1351
+Run 8:
+Light-Skin - Total: 124.0, Success: 97.0, MR: 0.2177
+Dark-Skin - Total: 37.0, Success: 32.0, MR: 0.1351
+Run 9:
+Light-Skin - Total: 124.0, Success: 97.0, MR: 0.2177
+Dark-Skin - Total: 37.0, Success: 32.0, MR: 0.1351
+
+Average Results:
+Light-Skin - Avg Total: 124.0, Avg Success: 97.0, Avg MR: 0.2177
+Dark-Skin - Avg Total: 37.0, Avg Success: 32.0, Avg MR: 0.1351
+Avg EOD: 0.0826
+
+Avg Two Proportions Z-test (P-value): 0.2692
+
+========== DT Type: faster_rcnn ==========
+
+Run 0:
+Light-Skin - Total: 124.0, Success: 105.0, MR: 0.1532
+Dark-Skin - Total: 37.0, Success: 33.0, MR: 0.1081
+Run 1:
+Light-Skin - Total: 124.0, Success: 105.0, MR: 0.1532
+Dark-Skin - Total: 37.0, Success: 33.0, MR: 0.1081
+Run 2:
+Light-Skin - Total: 124.0, Success: 105.0, MR: 0.1532
+Dark-Skin - Total: 37.0, Success: 33.0, MR: 0.1081
+Run 3:
+Light-Skin - Total: 124.0, Success: 105.0, MR: 0.1532
+Dark-Skin - Total: 37.0, Success: 33.0, MR: 0.1081
+Run 4:
+Light-Skin - Total: 124.0, Success: 105.0, MR: 0.1532
+Dark-Skin - Total: 37.0, Success: 33.0, MR: 0.1081
+Run 5:
+Light-Skin - Total: 124.0, Success: 105.0, MR: 0.1532
+Dark-Skin - Total: 37.0, Success: 33.0, MR: 0.1081
+Run 6:
+Light-Skin - Total: 124.0, Success: 105.0, MR: 0.1532
+Dark-Skin - Total: 37.0, Success: 33.0, MR: 0.1081
+Run 7:
+Light-Skin - Total: 124.0, Success: 105.0, MR: 0.1532
+Dark-Skin - Total: 37.0, Success: 33.0, MR: 0.1081
+Run 8:
+Light-Skin - Total: 124.0, Success: 105.0, MR: 0.1532
+Dark-Skin - Total: 37.0, Success: 33.0, MR: 0.1081
+Run 9:
+Light-Skin - Total: 124.0, Success: 105.0, MR: 0.1532
+Dark-Skin - Total: 37.0, Success: 33.0, MR: 0.1081
+
+Average Results:
+Light-Skin - Avg Total: 124.0, Avg Success: 105.0, Avg MR: 0.1532
+Dark-Skin - Avg Total: 37.0, Avg Success: 33.0, Avg MR: 0.1081
+Avg EOD: 0.0451
+
+Avg Two Proportions Z-test (P-value): 0.4913
+
+========== DT Type: cascade_rcnn ==========
+
+Run 0:
+Light-Skin - Total: 124.0, Success: 104.0, MR: 0.1613
+Dark-Skin - Total: 37.0, Success: 34.0, MR: 0.0811
+Run 1:
+Light-Skin - Total: 124.0, Success: 104.0, MR: 0.1613
+Dark-Skin - Total: 37.0, Success: 34.0, MR: 0.0811
+Run 2:
+Light-Skin - Total: 124.0, Success: 104.0, MR: 0.1613
+Dark-Skin - Total: 37.0, Success: 34.0, MR: 0.0811
+Run 3:
+Light-Skin - Total: 124.0, Success: 104.0, MR: 0.1613
+Dark-Skin - Total: 37.0, Success: 34.0, MR: 0.0811
+Run 4:
+Light-Skin - Total: 124.0, Success: 104.0, MR: 0.1613
+Dark-Skin - Total: 37.0, Success: 34.0, MR: 0.0811
+Run 5:
+Light-Skin - Total: 124.0, Success: 104.0, MR: 0.1613
+Dark-Skin - Total: 37.0, Success: 34.0, MR: 0.0811
+Run 6:
+Light-Skin - Total: 124.0, Success: 104.0, MR: 0.1613
+Dark-Skin - Total: 37.0, Success: 34.0, MR: 0.0811
+Run 7:
+Light-Skin - Total: 124.0, Success: 104.0, MR: 0.1613
+Dark-Skin - Total: 37.0, Success: 34.0, MR: 0.0811
+Run 8:
+Light-Skin - Total: 124.0, Success: 104.0, MR: 0.1613
+Dark-Skin - Total: 37.0, Success: 34.0, MR: 0.0811
+Run 9:
+Light-Skin - Total: 124.0, Success: 104.0, MR: 0.1613
+Dark-Skin - Total: 37.0, Success: 34.0, MR: 0.0811
+
+Average Results:
+Light-Skin - Avg Total: 124.0, Avg Success: 104.0, Avg MR: 0.1613
+Dark-Skin - Avg Total: 37.0, Avg Success: 34.0, Avg MR: 0.0811
+Avg EOD: 0.0802
+
+Avg Two Proportions Z-test (P-value): 0.2211
+
+========== DT Type: alfnet ==========
+
+Run 0:
+Light-Skin - Total: 124.0, Success: 42.0, MR: 0.6613
+Dark-Skin - Total: 37.0, Success: 13.0, MR: 0.6486
+Run 1:
+Light-Skin - Total: 124.0, Success: 42.0, MR: 0.6613
+Dark-Skin - Total: 37.0, Success: 13.0, MR: 0.6486
+Run 2:
+Light-Skin - Total: 124.0, Success: 42.0, MR: 0.6613
+Dark-Skin - Total: 37.0, Success: 13.0, MR: 0.6486
+Run 3:
+Light-Skin - Total: 124.0, Success: 42.0, MR: 0.6613
+Dark-Skin - Total: 37.0, Success: 13.0, MR: 0.6486
+Run 4:
+Light-Skin - Total: 124.0, Success: 42.0, MR: 0.6613
+Dark-Skin - Total: 37.0, Success: 13.0, MR: 0.6486
+Run 5:
+Light-Skin - Total: 124.0, Success: 42.0, MR: 0.6613
+Dark-Skin - Total: 37.0, Success: 13.0, MR: 0.6486
+Run 6:
+Light-Skin - Total: 124.0, Success: 42.0, MR: 0.6613
+Dark-Skin - Total: 37.0, Success: 13.0, MR: 0.6486
+Run 7:
+Light-Skin - Total: 124.0, Success: 42.0, MR: 0.6613
+Dark-Skin - Total: 37.0, Success: 13.0, MR: 0.6486
+Run 8:
+Light-Skin - Total: 124.0, Success: 42.0, MR: 0.6613
+Dark-Skin - Total: 37.0, Success: 13.0, MR: 0.6486
+Run 9:
+Light-Skin - Total: 124.0, Success: 42.0, MR: 0.6613
+Dark-Skin - Total: 37.0, Success: 13.0, MR: 0.6486
+
+Average Results:
+Light-Skin - Avg Total: 124.0, Avg Success: 42.0, Avg MR: 0.6613
+Dark-Skin - Avg Total: 37.0, Avg Success: 13.0, Avg MR: 0.6486
+Avg EOD: 0.0126
+
+Avg Two Proportions Z-test (P-value): 0.8868
+
+========== DT Type: csp ==========
+
+Run 0:
+Light-Skin - Total: 124.0, Success: 26.0, MR: 0.7903
+Dark-Skin - Total: 37.0, Success: 4.0, MR: 0.8919
+Run 1:
+Light-Skin - Total: 124.0, Success: 26.0, MR: 0.7903
+Dark-Skin - Total: 37.0, Success: 4.0, MR: 0.8919
+Run 2:
+Light-Skin - Total: 124.0, Success: 26.0, MR: 0.7903
+Dark-Skin - Total: 37.0, Success: 4.0, MR: 0.8919
+Run 3:
+Light-Skin - Total: 124.0, Success: 26.0, MR: 0.7903
+Dark-Skin - Total: 37.0, Success: 4.0, MR: 0.8919
+Run 4:
+Light-Skin - Total: 124.0, Success: 26.0, MR: 0.7903
+Dark-Skin - Total: 37.0, Success: 4.0, MR: 0.8919
+Run 5:
+Light-Skin - Total: 124.0, Success: 26.0, MR: 0.7903
+Dark-Skin - Total: 37.0, Success: 4.0, MR: 0.8919
+Run 6:
+Light-Skin - Total: 124.0, Success: 26.0, MR: 0.7903
+Dark-Skin - Total: 37.0, Success: 4.0, MR: 0.8919
+Run 7:
+Light-Skin - Total: 124.0, Success: 26.0, MR: 0.7903
+Dark-Skin - Total: 37.0, Success: 4.0, MR: 0.8919
+Run 8:
+Light-Skin - Total: 124.0, Success: 26.0, MR: 0.7903
+Dark-Skin - Total: 37.0, Success: 4.0, MR: 0.8919
+Run 9:
+Light-Skin - Total: 124.0, Success: 26.0, MR: 0.7903
+Dark-Skin - Total: 37.0, Success: 4.0, MR: 0.8919
+
+Average Results:
+Light-Skin - Avg Total: 124.0, Avg Success: 26.0, Avg MR: 0.7903
+Dark-Skin - Avg Total: 37.0, Avg Success: 4.0, Avg MR: 0.8919
+Avg EOD: -0.1016
+
+Avg Two Proportions Z-test (P-value): 0.1638
+
+========== DT Type: mgan ==========
+
+Run 0:
+Light-Skin - Total: 124.0, Success: 34.0, MR: 0.7258
+Dark-Skin - Total: 37.0, Success: 8.0, MR: 0.7838
+Run 1:
+Light-Skin - Total: 124.0, Success: 34.0, MR: 0.7258
+Dark-Skin - Total: 37.0, Success: 8.0, MR: 0.7838
+Run 2:
+Light-Skin - Total: 124.0, Success: 34.0, MR: 0.7258
+Dark-Skin - Total: 37.0, Success: 8.0, MR: 0.7838
+Run 3:
+Light-Skin - Total: 124.0, Success: 34.0, MR: 0.7258
+Dark-Skin - Total: 37.0, Success: 8.0, MR: 0.7838
+Run 4:
+Light-Skin - Total: 124.0, Success: 34.0, MR: 0.7258
+Dark-Skin - Total: 37.0, Success: 8.0, MR: 0.7838
+Run 5:
+Light-Skin - Total: 124.0, Success: 34.0, MR: 0.7258
+Dark-Skin - Total: 37.0, Success: 8.0, MR: 0.7838
+Run 6:
+Light-Skin - Total: 124.0, Success: 34.0, MR: 0.7258
+Dark-Skin - Total: 37.0, Success: 8.0, MR: 0.7838
+Run 7:
+Light-Skin - Total: 124.0, Success: 34.0, MR: 0.7258
+Dark-Skin - Total: 37.0, Success: 8.0, MR: 0.7838
+Run 8:
+Light-Skin - Total: 124.0, Success: 34.0, MR: 0.7258
+Dark-Skin - Total: 37.0, Success: 8.0, MR: 0.7838
+Run 9:
+Light-Skin - Total: 124.0, Success: 34.0, MR: 0.7258
+Dark-Skin - Total: 37.0, Success: 8.0, MR: 0.7838
+
+Average Results:
+Light-Skin - Avg Total: 124.0, Avg Success: 34.0, Avg MR: 0.7258
+Dark-Skin - Avg Total: 37.0, Avg Success: 8.0, Avg MR: 0.7838
+Avg EOD: -0.0580
+
+Avg Two Proportions Z-test (P-value): 0.4809
+
+========== DT Type: prnet ==========
+
+Run 0:
+Light-Skin - Total: 124.0, Success: 28.0, MR: 0.7742
+Dark-Skin - Total: 37.0, Success: 7.0, MR: 0.8108
+Run 1:
+Light-Skin - Total: 124.0, Success: 28.0, MR: 0.7742
+Dark-Skin - Total: 37.0, Success: 7.0, MR: 0.8108
+Run 2:
+Light-Skin - Total: 124.0, Success: 28.0, MR: 0.7742
+Dark-Skin - Total: 37.0, Success: 7.0, MR: 0.8108
+Run 3:
+Light-Skin - Total: 124.0, Success: 28.0, MR: 0.7742
+Dark-Skin - Total: 37.0, Success: 7.0, MR: 0.8108
+Run 4:
+Light-Skin - Total: 124.0, Success: 28.0, MR: 0.7742
+Dark-Skin - Total: 37.0, Success: 7.0, MR: 0.8108
+Run 5:
+Light-Skin - Total: 124.0, Success: 28.0, MR: 0.7742
+Dark-Skin - Total: 37.0, Success: 7.0, MR: 0.8108
+Run 6:
+Light-Skin - Total: 124.0, Success: 28.0, MR: 0.7742
+Dark-Skin - Total: 37.0, Success: 7.0, MR: 0.8108
+Run 7:
+Light-Skin - Total: 124.0, Success: 28.0, MR: 0.7742
+Dark-Skin - Total: 37.0, Success: 7.0, MR: 0.8108
+Run 8:
+Light-Skin - Total: 124.0, Success: 28.0, MR: 0.7742
+Dark-Skin - Total: 37.0, Success: 7.0, MR: 0.8108
+Run 9:
+Light-Skin - Total: 124.0, Success: 28.0, MR: 0.7742
+Dark-Skin - Total: 37.0, Success: 7.0, MR: 0.8108
+
+Average Results:
+Light-Skin - Avg Total: 124.0, Avg Success: 28.0, Avg MR: 0.7742
+Dark-Skin - Avg Total: 37.0, Avg Success: 7.0, Avg MR: 0.8108
+Avg EOD: -0.0366
+
+Avg Two Proportions Z-test (P-value): 0.6356
+Weather evaluations completed.
