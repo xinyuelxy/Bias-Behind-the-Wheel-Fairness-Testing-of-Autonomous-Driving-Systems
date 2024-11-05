@@ -42,6 +42,7 @@ In the "labels" directory, we provide the labels used in our experiments. This f
 
 This directory can also be downloaded in the provided google drive link:
 https://drive.google.com/drive/folders/1VbrgYa1tCZraGBs0cfZmiSY23gle5GAv?usp=sharing
+(Please use the Chrome browser to download this file, and note that extraction may take over 30 minutes. Thank you for your patience.)
 
 ### 1. RQ1 Overall Fairness (RQ1_overall)
 
